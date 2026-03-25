@@ -16,8 +16,10 @@ a{
     text-decoration: none;
     color: #F7F8F0;
 }
-#Earth{
-    z-index: -2;
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 }
 
@@ -25,4 +27,5 @@ a{
     .Navigation{
         font-size: medium;
     }
+
 }
