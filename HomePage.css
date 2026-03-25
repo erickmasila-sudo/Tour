@@ -1,12 +1,22 @@
 .Navigation{
-    display: flexbox;
+    display: flex;
     background-color: #355872;
-    width: 100%;
+    margin-top: 0;
+    justify-content: space-between;
+    padding: 10px 30px;
 button{
     padding: 3em;
-    justify-content: space space-between;
+    background-color: #7AAACE;
+}
+button:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
 }
 a{
     text-decoration: none;
+    color: #F7F8F0;
+}
+#Earth{
+    z-index: -2;
 }
 }
