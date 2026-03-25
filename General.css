@@ -1,3 +1,33 @@
 .Holder{
     display: flex;
 }
+.Holder .Continent{
+    border: 1em;
+    padding: 2em;
+    background-color: #7AAACE;
+    border-color: black;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    margin: 10px;
+p{
+    display: none;
+}
+a{
+     display: none;
+     text-decoration: none;
+}
+}
+
+.Holder .Continent:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+p{
+    display: contents;
+}
+a{
+    display: contents;
+}
+}
+body{
+    background-color: #F7F8F0;
+}
