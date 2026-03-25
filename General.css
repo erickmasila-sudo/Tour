@@ -1,7 +1,7 @@
 .Holder{
     display: flex;
 }
-.Holder .Continent{
+.Holder .Element{
     border: 1em;
     padding: 2em;
     background-color: #7AAACE;
@@ -18,7 +18,7 @@ a{
 }
 }
 
-.Holder .Continent:hover{
+.Holder .Element:hover{
     transform: scale(1.05);
     transition: 0.3s;
 p{
