@@ -1,0 +1,12 @@
+.Navigation{
+    display: flexbox;
+    background-color: darkblue;
+    width: 100%;
+button{
+    padding: 3em;
+    justify-content: space space-between;
+}
+a{
+    text-decoration: none;
+}
+}
