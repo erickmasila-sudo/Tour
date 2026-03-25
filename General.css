@@ -31,3 +31,10 @@ a{
 body{
     background-color: #F7F8F0;
 }
+
+@media only screen and (max-width: 430px){
+ .Holder{
+    display: block;
+    font-size: medium;
+ }
+}
