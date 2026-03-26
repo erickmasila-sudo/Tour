@@ -50,4 +50,9 @@ git clone https://erickmasila-sudo.github.io/Tour.git
          }
 
 4. TheWorldMap.html
-   -This is the file 
+   -This is the file that contains the map of the world
+
+5. Facts.html
+  -This is the file that contains facts about the world
+  -Add More facts to this file as more data is added
+
