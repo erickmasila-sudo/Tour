@@ -56,3 +56,13 @@ git clone https://erickmasila-sudo.github.io/Tour.git
   -This is the file that contains facts about the world
   -Add More facts to this file as more data is added
 
+## Contributing Guidlines
+
+Authour: erick-masila/sudo
+Contributing:
+-Add More Facts card in to the facts.html
+-Create a background hover for the images in the continents.html and oceans.html
+-Create a more interactive map on the TheWorldMap.html
+
+
+
