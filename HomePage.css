@@ -26,6 +26,11 @@ img{
 @media only screen and (max-width: 430px){
     .Navigation{
         font-size: medium;
+        padding: 10 px 20px;
     }
+   button{
+    padding: 0;
+    margin-right: 2em;
+   }
 
 }

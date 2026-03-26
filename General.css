@@ -37,4 +37,7 @@ body{
     display: block;
     font-size: medium;
  }
+ #Map{
+    image-orientation: flip;
+ }
 }
